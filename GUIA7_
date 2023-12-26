@@ -1,0 +1,7 @@
+git remote add github url
+git remote -v
+git push github master
+> cat > kotlin.txt
+git add .
+> git commit -m
+"Añadido datos."
